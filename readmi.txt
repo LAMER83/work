@@ -1,0 +1,7 @@
+git init - создаем новый проект
+git add * - закидываем файлы по маске для commit
+git commit -m 'home test 2' - подготавливаем к отправке
+git branch -M main - ветка
+git push -u origin main - размещаем измениения
+git clone https://github.com/LAMER83/work.git - клонируем полностью проект
+git pull - забираем изменения
